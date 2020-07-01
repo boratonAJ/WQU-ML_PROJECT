@@ -49,10 +49,10 @@ If you do not already have the [Anaconda distribution](https://www.anaconda.com/
 
 Please follow the following link to download your prefer doistribution to use for exploring the data;
 
-* [!Downloading conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) 
-* [!Installing on Windows](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
-* [!Installing on macOS](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
-* [!Installing on Linux](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+* [Downloading conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) 
+* [Installing on Windows](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
+* [Installing on macOS](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
+* [Installing on Linux](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
 
 ### 3. Create your conda environment for this session
