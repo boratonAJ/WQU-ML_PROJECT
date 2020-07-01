@@ -1,4 +1,4 @@
-name: covid_19_eda
+name: WQU-COVID-19
 channels:
 - conda-forge
 - defaults
